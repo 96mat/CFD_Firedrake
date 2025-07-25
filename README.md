@@ -3,4 +3,4 @@ eventually coupling them with other physics.
 1. Incompressible Navier-Stokes equation
 2. Temperature equation
 3. Concentration equation
-4. multiphase Level-Set coupling i.e. Navier-Stokes + Level Set transport equation + Temperature equation
+4. Multiphase Level-Set coupling i.e. Navier-Stokes + Level Set transport equation + Temperature equation
