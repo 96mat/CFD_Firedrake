@@ -1,4 +1,4 @@
-All the scripts can be used directly on Google-Colab without installing locally ```Firedrake```. Here some numerical experiments are done solving the incompressible Navier-Stokes equations
+All the scripts can be used directly on Google-Colab without installing locally [```Firedrake```](https://www.firedrakeproject.org/solving-interface.html#introduction). Here some numerical experiments are done solving the incompressible Navier-Stokes equations
 eventually coupling them with other physics.
 1. Incompressible Navier-Stokes equation
 2. Temperature equation
