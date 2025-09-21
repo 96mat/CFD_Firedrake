@@ -4,3 +4,4 @@ eventually coupling them with other physics.
 2. Temperature equation
 3. Concentration equation
 4. Multiphase Level-Set coupling i.e. Navier-Stokes + Level Set transport equation + Temperature equation
+5. Magnetohydrodynamic (MHD), that is Navier-Stokes coupled with Maxwell equations
